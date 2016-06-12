@@ -1,5 +1,4 @@
 # UDP Alarm Specification
-Steam turbine and generator temperature sensor simulation. Sends a data packet over UDP when over temperature limit.
 
 AUTHOR OF SPEC: PJ RADCLIFFE
 
