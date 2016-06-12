@@ -1,4 +1,4 @@
-# udp-alarm specification
+# UDP Alarm Specification
 Graphical user interface for the Open-USB-IO platform
 
 AUTHOR OF SPEC: PJ RADCLIFFE
